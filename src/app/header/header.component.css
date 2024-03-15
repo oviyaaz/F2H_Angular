@@ -1,0 +1,16 @@
+.app-logo{
+    background-image:url("../../assets/Logo.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+}
+
+.profile-logo{
+    background-image: url("../../assets/Profile_Logo.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+}
+
